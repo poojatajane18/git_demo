@@ -46,6 +46,12 @@ You using git bash .use push command your project directly access in github
 
 ## Contributing
 
-If you'd like to contribute, please fork the repository and create a pull request. Issues and feature requests are welcome!
+If you'd like to contribute, please follow these steps:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/contribution`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add some feature'`)
+5. Push to the branch (`git push origin feature/contribution`)
+6. Create a pull request
 
 
